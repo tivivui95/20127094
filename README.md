@@ -12,6 +12,10 @@ The `DynamicArray` class also in `DynamicArray.cpp` due to template using.
 2. Generate a dynamic array of Fractions and print out the final sum of all fractions.
 
 3. Generate a dynamic array of Fullname and print out all the full names.
+
+*Addictional functions included:*
+- Random number generator
+- Convert Fraction to the lowest term
 # How to use
 ## Declaration
 Like vector, the `DynamicArray` has the same declare function.
